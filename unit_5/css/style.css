@@ -7,6 +7,10 @@
 	margin: 0;
 }
 
+body{
+	font-size: 16px;
+}
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -19,16 +23,22 @@ nav {
 	padding: 20px;
 }
 
-.big{
-	background-color: #E89C6C
+img{
+	width: 30em;
+}
+
+#big{
+	background-color: #E89C6C;
 	border: 1px black solid;
 	padding:20px;
+	width: 30em;
 }
 
 aside {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding:20px;
+	width: 30em;
 }
 
 footer {
@@ -36,3 +46,21 @@ footer {
 	border: 1px black solid;
 	padding: 20px;
 }
+
+.wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+.more {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding:20px;
+	width: 300px;
+}
+
+.recipe {
+	width: 300px;
+}
+
