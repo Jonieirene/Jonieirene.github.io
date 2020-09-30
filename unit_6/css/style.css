@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Slabo+27px&display=swap');
+
+
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-size: 16px;
+}
+
+header {
+	padding: 20px;
+}
+
+h1 {
+	color: #9BE6EB;
+}
+
+nav {
+	padding: 20px;
+}
+
+img{
+	width: 50%;
+}
+
+aside {
+	padding:20px;
+	width: 30em;
+}
+
+footer {
+	padding: 20px;
+	clear: both;
+}
+
+.wrapper {
+	padding: 20px;
+}
+
+.more {
+	padding:20px;
+	width: 90%;
+	float: left;
+}
+
+.recipe {
+	width: 15%;
+	float: left;
+	margin: 1.5%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#two_column {
+	padding: 20px;
+}
+
+#left{
+	padding:20px;
+	float: left;
+	width: 62%;
+}
+
+#right{
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
